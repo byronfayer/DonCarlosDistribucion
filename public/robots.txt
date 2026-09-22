@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: reemplazar por el dominio real una vez desplegado
+Sitemap: https://TU-DOMINIO-REAL/sitemap.xml
